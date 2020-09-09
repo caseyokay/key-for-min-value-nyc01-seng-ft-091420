@@ -11,6 +11,6 @@ name_hash.each do |key, value|
     min_key = key 
       # binding.pry 
   end
-  min_key
 end
+min_key
 end
